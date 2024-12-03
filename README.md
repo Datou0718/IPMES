@@ -5,7 +5,7 @@ IPMES (Incremental Behavioral Pattern Matching Algorithm over the System Audit E
 This repository holds the original source code for IMPES-java.
 
 ## Related Repositories
-- [littleponywork/IPMES](https://github.com/littleponywork/IPMES) - the official version for DSN 2024.
+- [littleponywork/IPMES](https://github.com/littleponywork/IPMES) - the official version (Java) for DSN 2024.
 - [XYFC128](https://github.com/XYFC128/IPMES_PLUS) - Successor version implemented with Rust.
 
 If you use IPMES in your research, please cite our paper published at the  **2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN):**  [IPMES: A Tool for Incremental TTP Detection Over the System Audit Event Stream](https://doi.ieeecomputersociety.org/10.1109/DSN58291.2024.00036)
