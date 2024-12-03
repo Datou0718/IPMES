@@ -2,9 +2,7 @@
 
 IPMES (Incremental Behavioral Pattern Matching Algorithm over the System Audit Event Stream for APT Detection) is a prototype version of system that performs incremental pattern matching over event streams.
 
-Please refer to [IPMES+](https://github.com/XYFC128/IPMES_PLUS) for official version, and if you use IPMES in your research, please cite our paper published at the  
-**2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN):**  
-[IPMES: A Tool for Incremental TTP Detection Over the System Audit Event Stream](https://doi.ieeecomputersociety.org/10.1109/DSN58291.2024.00036)
+Please refer to [IPMES+](https://github.com/XYFC128/IPMES_PLUS) for official version, and if you use IPMES in your research, please cite our paper published at the  **2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN):**  [IPMES: A Tool for Incremental TTP Detection Over the System Audit Event Stream](https://doi.ieeecomputersociety.org/10.1109/DSN58291.2024.00036)
 
 **BibTeX entry:**
 ```bibtex
